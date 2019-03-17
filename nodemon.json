@@ -1,0 +1,7 @@
+{
+  "verbose": true,
+  "ignore": ["src/db/db.json"],
+  "execMap": {
+    "js": "node"
+  }
+}
