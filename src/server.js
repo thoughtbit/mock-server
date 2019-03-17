@@ -1,4 +1,5 @@
 const jsonServer = require('json-server');
+const proxy = require('http-proxy-middleware');
 const { dbFile } = require('./db');
 const routes = require('./routes');
 
@@ -6,8 +7,17 @@ const server = jsonServer.create();
 const router = jsonServer.router(dbFile);
 const middlewares = jsonServer.defaults();
 
+const jsonServerProxy = proxy({
+  target: 'https://cnodejs.org/api',
+  changeOrigin: true,
+  pathRewrite: { '^/api': '' }
+});
+
 server.use(middlewares);
 server.use(jsonServer.bodyParser);
+
+// 反向代理
+server.use('/api', jsonServerProxy);
 
 // All routes for the server
 routes(server);
