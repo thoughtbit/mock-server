@@ -1,36 +1,18 @@
 {
-  "root": true,
-  "env": {
-    "node": true
+  "parser": "@typescript-eslint/parser",
+  "extends": ["prettier", "plugin:@typescript-eslint/recommended", "plugin:prettier/recommended"],
+  "parserOptions": {
+    "ecmaVersion": 2018,
+    "sourceType": "module"
   },
-  "extends": [
-    "airbnb-base"
-  ],
   "rules": {
-    "max-len": 0,
-    "comma-dangle": ["error", "never"],
-    "import/prefer-default-export": 0,
-    "prefer-const": 0,
-    "func-names": 0,
-    "no-else-return": 0,
-    "no-bitwise": 0,
-    "guard-for-in": 0,
-    "no-restricted-syntax": 0,
-    "import/no-mutable-exports": 0,
-    "consistent-return": 0,
-    "no-unused-vars": 0,
-    "no-unused-expressions": 0,
-    "no-console": 0,
-    "no-shadow": 0,
-    "no-alert": 0,
-    "no-plusplus": 0,
-    "no-param-reassign": 0,
-    "no-underscore-dangle": 0,
-    "no-useless-escape": 0,
-    "dot-notation": 0,
-    "arrow-body-style": 0,
-    "linebreak-style": "off",
-    "radix": 0
-  },
-  "parser": "babel-eslint"
+    "@typescript-eslint/explicit-member-accessibility": 0,
+    "@typescript-eslint/explicit-function-return-type": 0,
+    "@typescript-eslint/no-parameter-properties": 0,
+    "@typescript-eslint/interface-name-prefix": 0,
+    "@typescript-eslint/explicit-module-boundary-types": 0,
+    "@typescript-eslint/no-explicit-any": "off",
+    "@typescript-eslint/ban-types": "off",
+    "@typescript-eslint/no-var-requires": "off"
+  }
 }
