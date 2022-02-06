@@ -1,7 +1,14 @@
 {
+  "restartable": "rs",
+  "ignore": [".git", "node_modules/**/*", "src/**/*.{spec,test,mock}.ts"],
   "verbose": true,
-  "ignore": ["src/db/db.json"],
   "execMap": {
-    "js": "node"
-  }
+    "ts": "ts-node --files -r tsconfig-paths/register"
+  },
+  "watch": ["config", "src", ".env"],
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "ext": "ts,js,yaml,json",
+  "exec": "ts-node -r tsconfig-paths/register --transpile-only src/server.ts"
 }

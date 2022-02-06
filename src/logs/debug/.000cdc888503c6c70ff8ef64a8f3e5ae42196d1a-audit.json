@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/moocss/work/MyProjects/mock-server/src/logs/debug/.000cdc888503c6c70ff8ef64a8f3e5ae42196d1a-audit.json",
+    "files": [
+        {
+            "date": 1644150775041,
+            "name": "/Users/moocss/work/MyProjects/mock-server/src/logs/debug/2022-02-06.log",
+            "hash": "40c5e93aec5e9bcb92d3bda5448eb160"
+        }
+    ],
+    "hashType": "md5"
+}
