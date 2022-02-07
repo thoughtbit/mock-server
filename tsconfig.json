@@ -1,6 +1,8 @@
 {
-  "compileOnSave": false,
+  "compileOnSave": true,
+  "extends": "./tsconfig.paths.json",
   "compilerOptions": {
+    "strict": true,
     "charset": "utf8",
     "target": "es2017",
     "lib": ["es2017", "esnext.asynciterable"],
@@ -15,23 +17,17 @@
     "sourceMap": true,
     "declaration": true,
     "outDir": "./dist",
+    "rootDir": "./src",
     "allowJs": true,
-    "noEmit": true,
+    "noEmit": false,
     "esModuleInterop": true,
     "resolveJsonModule": true,
     "importHelpers": true,
     "skipLibCheck": true,
-    "strict": true,
     "noFallthroughCasesInSwitch": true,
     "isolatedModules": true,
-    "removeComments": true,
-    "baseUrl": "src",
-    "paths": {
-      "@/*": ["*"],
-      "@config": ["config"],
-      "@utils/*": ["utils/*"]
-    }
+    "removeComments": true
   },
   "include": ["src/**/*.ts", "src/**/*.json", ".env"],
-  "exclude": ["node_modules", "src/logs"],
+  "exclude": ["node_modules", "src/logs"]
 }

@@ -9,6 +9,11 @@
             "date": 1644150775041,
             "name": "/Users/moocss/work/MyProjects/mock-server/src/logs/debug/2022-02-06.log",
             "hash": "40c5e93aec5e9bcb92d3bda5448eb160"
+        },
+        {
+            "date": 1644211621352,
+            "name": "/Users/moocss/work/MyProjects/mock-server/src/logs/debug/2022-02-07.log",
+            "hash": "b90ba7559f75ae27c926c23870e6340e"
         }
     ],
     "hashType": "md5"

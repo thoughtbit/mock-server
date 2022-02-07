@@ -5,7 +5,7 @@
   "scripts": {
     "start": "pnpm build && cross-env NODE_ENV=production node dist/server.js",
     "dev": "cross-env NODE_ENV=development nodemon",
-    "build": "pnpm clean && tsc && tsc-alias",
+    "build": "pnpm clean && tsc && tsc-alias && copyfiles -u 1 'src/config/cert/**' dist && copyfiles -u 1 'src/config/keys/**' dist && copyfiles -u 1 'src/public/**' dist",
     "build:swc": "swc src -d dist --source-maps --copy-files",
     "test": "jest --forceExit --detectOpenHandles",
     "lint": "eslint --ignore-path .gitignore --ext .ts src/",
