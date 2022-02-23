@@ -62,4 +62,6 @@ const stream = {
   },
 };
 
+export const setDefaultLogger = (logger: winston.Logger) => (global.log = logger);
+
 export { logger, stream };

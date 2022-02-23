@@ -14,6 +14,21 @@
             "date": 1644211621356,
             "name": "/Users/moocss/work/MyProjects/mock-server/src/logs/error/2022-02-07.log",
             "hash": "fbbf6237af2ceec1d313ce4cde1e9bd1"
+        },
+        {
+            "date": 1645342489375,
+            "name": "/Users/moocss/work/MyProjects/mock-server/src/logs/error/2022-02-20.log",
+            "hash": "6215f9f010ff869c1899fe57e50b071d"
+        },
+        {
+            "date": 1645544008965,
+            "name": "/Users/moocss/work/MyProjects/mock-server/src/logs/error/2022-02-22.log",
+            "hash": "75d831e6be32cc138aecbd5ed7f10181"
+        },
+        {
+            "date": 1645618425123,
+            "name": "/Users/moocss/work/MyProjects/mock-server/src/logs/error/2022-02-23.log",
+            "hash": "2f680b7acd683ddc77a9595f03ff340e"
         }
     ],
     "hashType": "md5"

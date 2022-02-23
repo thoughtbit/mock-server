@@ -1,0 +1,88 @@
+2022-02-22 23:33:29 info: =================================
+2022-02-22 23:33:29 info: ======= ENV: development =======
+2022-02-22 23:33:29 info: 🚀 App listening on the port 3000
+2022-02-22 23:33:29 info: =================================
+2022-02-22 23:33:29 info: Opened database file undefined
+2022-02-22 23:34:35 info: =================================
+2022-02-22 23:34:35 info: ======= ENV: development =======
+2022-02-22 23:34:35 info: 🚀 App listening on the port 3000
+2022-02-22 23:34:35 info: =================================
+2022-02-22 23:34:35 info: Opened database file undefined
+2022-02-22 23:35:14 info: 登录: admin
+2022-02-22 23:35:14 info: [0mPOST /auth/login [32m200[0m 31.031 ms - 59[0m
+2022-02-22 23:36:21 info: =================================
+2022-02-22 23:36:21 info: ======= ENV: development =======
+2022-02-22 23:36:21 info: 🚀 App listening on the port 3000
+2022-02-22 23:36:21 info: =================================
+2022-02-22 23:36:21 info: Opened database file undefined
+2022-02-22 23:36:28 info: 登录: admin
+2022-02-22 23:36:28 info: [0mPOST /auth/login [32m200[0m 25.868 ms - 59[0m
+2022-02-22 23:37:25 info: =================================
+2022-02-22 23:37:25 info: ======= ENV: development =======
+2022-02-22 23:37:25 info: 🚀 App listening on the port 3000
+2022-02-22 23:37:25 info: =================================
+2022-02-22 23:37:25 info: Opened database file undefined
+2022-02-22 23:37:29 info: 登录: admin
+2022-02-22 23:37:29 info: [0mPOST /auth/login [32m200[0m 29.593 ms - 59[0m
+2022-02-22 23:40:53 info: =================================
+2022-02-22 23:40:53 info: ======= ENV: development =======
+2022-02-22 23:40:53 info: 🚀 App listening on the port 3000
+2022-02-22 23:40:53 info: =================================
+2022-02-22 23:40:53 info: Opened database file undefined
+2022-02-22 23:42:20 info: =================================
+2022-02-22 23:42:20 info: ======= ENV: development =======
+2022-02-22 23:42:20 info: 🚀 App listening on the port 3000
+2022-02-22 23:42:20 info: =================================
+2022-02-22 23:42:20 info: Opened database file undefined
+2022-02-22 23:47:11 info: =================================
+2022-02-22 23:47:11 info: ======= ENV: development =======
+2022-02-22 23:47:11 info: 🚀 App listening on the port 3000
+2022-02-22 23:47:11 info: =================================
+2022-02-22 23:47:11 info: Opened database file undefined
+2022-02-22 23:48:17 info: =================================
+2022-02-22 23:48:17 info: ======= ENV: development =======
+2022-02-22 23:48:17 info: 🚀 App listening on the port 3000
+2022-02-22 23:48:17 info: =================================
+2022-02-22 23:48:17 info: Opened database file undefined
+2022-02-22 23:49:27 info: =================================
+2022-02-22 23:49:27 info: ======= ENV: development =======
+2022-02-22 23:49:27 info: 🚀 App listening on the port 3000
+2022-02-22 23:49:27 info: =================================
+2022-02-22 23:49:27 info: Opened database file undefined
+2022-02-22 23:52:13 info: =================================
+2022-02-22 23:52:13 info: ======= ENV: development =======
+2022-02-22 23:52:13 info: 🚀 App listening on the port 3000
+2022-02-22 23:52:13 info: =================================
+2022-02-22 23:52:13 info: Opened database file undefined
+2022-02-22 23:57:44 info: =================================
+2022-02-22 23:57:44 info: ======= ENV: development =======
+2022-02-22 23:57:44 info: 🚀 App listening on the port 3000
+2022-02-22 23:57:44 info: =================================
+2022-02-22 23:57:44 info: Opened database file undefined
+2022-02-22 23:57:49 info: =================================
+2022-02-22 23:57:49 info: ======= ENV: development =======
+2022-02-22 23:57:49 info: 🚀 App listening on the port 3000
+2022-02-22 23:57:49 info: =================================
+2022-02-22 23:57:49 info: Opened database file undefined
+2022-02-22 23:58:11 info: =================================
+2022-02-22 23:58:11 info: ======= ENV: development =======
+2022-02-22 23:58:11 info: 🚀 App listening on the port 3000
+2022-02-22 23:58:11 info: =================================
+2022-02-22 23:58:11 info: Opened database file undefined
+2022-02-22 23:58:12 info: =================================
+2022-02-22 23:58:12 info: ======= ENV: development =======
+2022-02-22 23:58:12 info: 🚀 App listening on the port 3000
+2022-02-22 23:58:12 info: =================================
+2022-02-22 23:58:12 info: Opened database file undefined
+2022-02-22 23:58:19 info: =================================
+2022-02-22 23:58:19 info: ======= ENV: development =======
+2022-02-22 23:58:19 info: 🚀 App listening on the port 3000
+2022-02-22 23:58:19 info: =================================
+2022-02-22 23:58:19 info: Opened database file undefined
+2022-02-22 23:59:04 info: =================================
+2022-02-22 23:59:04 info: ======= ENV: development =======
+2022-02-22 23:59:04 info: 🚀 App listening on the port 3000
+2022-02-22 23:59:04 info: =================================
+2022-02-22 23:59:04 info: Opened database file undefined
+2022-02-22 23:59:08 info: 登录: admin
+2022-02-22 23:59:08 info: [0mPOST /auth/login [32m200[0m 36.110 ms - 59[0m

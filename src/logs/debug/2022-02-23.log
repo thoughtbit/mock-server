@@ -1,0 +1,235 @@
+2022-02-23 20:13:45 info: =================================
+2022-02-23 20:13:45 info: ======= ENV: development =======
+2022-02-23 20:13:45 info: 🚀 App listening on the port 3000
+2022-02-23 20:13:45 info: =================================
+2022-02-23 20:13:45 info: Opened database file db.json
+2022-02-23 20:15:22 info: =================================
+2022-02-23 20:15:22 info: ======= ENV: development =======
+2022-02-23 20:15:22 info: 🚀 App listening on the port 3000
+2022-02-23 20:15:22 info: =================================
+2022-02-23 20:15:22 info: Opened database file ./src/db/db.json
+2022-02-23 20:15:24 info: =================================
+2022-02-23 20:15:24 info: ======= ENV: development =======
+2022-02-23 20:15:24 info: 🚀 App listening on the port 3000
+2022-02-23 20:15:24 info: =================================
+2022-02-23 20:15:24 info: Opened database file ./src/db/db.json
+2022-02-23 20:15:34 info: =================================
+2022-02-23 20:15:34 info: ======= ENV: development =======
+2022-02-23 20:15:34 info: 🚀 App listening on the port 3000
+2022-02-23 20:15:34 info: =================================
+2022-02-23 20:15:34 info: Opened database file ./src/db/db.json
+2022-02-23 20:22:13 info: =================================
+2022-02-23 20:22:13 info: ======= ENV: development =======
+2022-02-23 20:22:13 info: 🚀 App listening on the port 3000
+2022-02-23 20:22:13 info: =================================
+2022-02-23 20:22:13 info: Opened database file ./src/db/db.json
+2022-02-23 20:23:39 info: =================================
+2022-02-23 20:23:39 info: ======= ENV: development =======
+2022-02-23 20:23:39 info: 🚀 App listening on the port 3000
+2022-02-23 20:23:39 info: =================================
+2022-02-23 20:23:39 info: Opened database file ./src/db/db.json
+2022-02-23 20:52:15 info: =================================
+2022-02-23 20:52:15 info: ======= ENV: development =======
+2022-02-23 20:52:15 info: 🚀 App listening on the port 3000
+2022-02-23 20:52:15 info: =================================
+2022-02-23 20:52:15 info: Opened database file ./src/db/db.json
+2022-02-23 20:53:06 info: =================================
+2022-02-23 20:53:06 info: ======= ENV: development =======
+2022-02-23 20:53:06 info: 🚀 App listening on the port 3000
+2022-02-23 20:53:06 info: =================================
+2022-02-23 20:53:06 info: Opened database file ./src/db/db.json
+2022-02-23 20:55:46 info: =================================
+2022-02-23 20:55:46 info: ======= ENV: development =======
+2022-02-23 20:55:46 info: 🚀 App listening on the port 3000
+2022-02-23 20:55:46 info: =================================
+2022-02-23 20:55:46 info: Opened database file ./src/db/db.json
+2022-02-23 21:01:18 info: =================================
+2022-02-23 21:01:18 info: ======= ENV: development =======
+2022-02-23 21:01:18 info: 🚀 App listening on the port 3000
+2022-02-23 21:01:18 info: =================================
+2022-02-23 21:01:18 info: Opened database file ./src/db/db.json
+2022-02-23 21:01:54 info: =================================
+2022-02-23 21:01:54 info: ======= ENV: development =======
+2022-02-23 21:01:54 info: 🚀 App listening on the port 3000
+2022-02-23 21:01:54 info: =================================
+2022-02-23 21:01:54 info: Opened database file ./src/db/db.json
+2022-02-23 21:02:02 info: =================================
+2022-02-23 21:02:02 info: ======= ENV: development =======
+2022-02-23 21:02:02 info: 🚀 App listening on the port 3000
+2022-02-23 21:02:02 info: =================================
+2022-02-23 21:02:02 info: Opened database file ./src/db/db.json
+2022-02-23 21:02:09 info: 登录: admin
+2022-02-23 21:02:09 info: [0mPOST /auth/login [32m200[0m 38.038 ms - 59[0m
+2022-02-23 21:07:59 info: =================================
+2022-02-23 21:07:59 info: ======= ENV: development =======
+2022-02-23 21:07:59 info: 🚀 App listening on the port 3000
+2022-02-23 21:07:59 info: =================================
+2022-02-23 21:07:59 info: Opened database file ./src/db/db.json
+2022-02-23 21:08:26 info: =================================
+2022-02-23 21:08:26 info: ======= ENV: development =======
+2022-02-23 21:08:26 info: 🚀 App listening on the port 3000
+2022-02-23 21:08:26 info: =================================
+2022-02-23 21:08:26 info: Opened database file ./src/db/db.json
+2022-02-23 21:08:28 info: =================================
+2022-02-23 21:08:28 info: ======= ENV: development =======
+2022-02-23 21:08:28 info: 🚀 App listening on the port 3000
+2022-02-23 21:08:28 info: =================================
+2022-02-23 21:08:28 info: Opened database file ./src/db/db.json
+2022-02-23 21:08:45 info: =================================
+2022-02-23 21:08:45 info: ======= ENV: development =======
+2022-02-23 21:08:45 info: 🚀 App listening on the port 3000
+2022-02-23 21:08:45 info: =================================
+2022-02-23 21:08:45 info: Opened database file ./src/db/db.json
+2022-02-23 21:17:46 info: =================================
+2022-02-23 21:17:46 info: ======= ENV: development =======
+2022-02-23 21:17:46 info: 🚀 App listening on the port 3000
+2022-02-23 21:17:46 info: =================================
+2022-02-23 21:17:46 info: Opened database file ./src/db/db.json
+2022-02-23 21:18:34 info: =================================
+2022-02-23 21:18:34 info: ======= ENV: development =======
+2022-02-23 21:18:34 info: 🚀 App listening on the port 3000
+2022-02-23 21:18:34 info: =================================
+2022-02-23 21:18:34 info: Opened database file ./src/db/db.json
+2022-02-23 21:21:00 info: [0mPOST /auth/register [32m200[0m 1040.095 ms - 28[0m
+2022-02-23 21:21:02 info: =================================
+2022-02-23 21:21:02 info: ======= ENV: development =======
+2022-02-23 21:21:02 info: 🚀 App listening on the port 3000
+2022-02-23 21:21:02 info: =================================
+2022-02-23 21:21:02 info: Opened database file ./src/db/db.json
+2022-02-23 21:21:23 info: =================================
+2022-02-23 21:21:23 info: ======= ENV: development =======
+2022-02-23 21:21:23 info: 🚀 App listening on the port 3000
+2022-02-23 21:21:23 info: =================================
+2022-02-23 21:21:23 info: Opened database file ./src/db/db.json
+2022-02-23 21:21:27 info: [0mPOST /auth/register [33m400[0m 1033.129 ms - 33[0m
+2022-02-23 21:21:35 info: [0mPOST /auth/register [33m400[0m 1003.219 ms - 33[0m
+2022-02-23 21:22:06 info: =================================
+2022-02-23 21:22:06 info: ======= ENV: development =======
+2022-02-23 21:22:06 info: 🚀 App listening on the port 3000
+2022-02-23 21:22:06 info: =================================
+2022-02-23 21:22:06 info: Opened database file ./src/db/db.json
+2022-02-23 21:22:16 info: =================================
+2022-02-23 21:22:16 info: ======= ENV: development =======
+2022-02-23 21:22:16 info: 🚀 App listening on the port 3000
+2022-02-23 21:22:16 info: =================================
+2022-02-23 21:22:16 info: Opened database file ./src/db/db.json
+2022-02-23 21:23:44 info: =================================
+2022-02-23 21:23:44 info: ======= ENV: development =======
+2022-02-23 21:23:44 info: 🚀 App listening on the port 3000
+2022-02-23 21:23:44 info: =================================
+2022-02-23 21:23:44 info: Opened database file ./src/db/db.json
+2022-02-23 21:23:52 info: =================================
+2022-02-23 21:23:52 info: ======= ENV: development =======
+2022-02-23 21:23:52 info: 🚀 App listening on the port 3000
+2022-02-23 21:23:52 info: =================================
+2022-02-23 21:23:52 info: Opened database file ./src/db/db.json
+2022-02-23 21:24:30 info: =================================
+2022-02-23 21:24:30 info: ======= ENV: development =======
+2022-02-23 21:24:30 info: 🚀 App listening on the port 3000
+2022-02-23 21:24:30 info: =================================
+2022-02-23 21:24:30 info: Opened database file ./src/db/db.json
+2022-02-23 21:33:28 info: =================================
+2022-02-23 21:33:28 info: ======= ENV: development =======
+2022-02-23 21:33:28 info: 🚀 App listening on the port 3000
+2022-02-23 21:33:28 info: =================================
+2022-02-23 21:33:28 info: Opened database file ./src/db/db.json
+2022-02-23 21:33:37 info: =================================
+2022-02-23 21:33:37 info: ======= ENV: development =======
+2022-02-23 21:33:37 info: 🚀 App listening on the port 3000
+2022-02-23 21:33:37 info: =================================
+2022-02-23 21:33:37 info: Opened database file ./src/db/db.json
+2022-02-23 21:33:42 info: [0mPOST /auth/register [32m200[0m 1030.478 ms - 182[0m
+2022-02-23 21:33:44 info: =================================
+2022-02-23 21:33:44 info: ======= ENV: development =======
+2022-02-23 21:33:44 info: 🚀 App listening on the port 3000
+2022-02-23 21:33:44 info: =================================
+2022-02-23 21:33:44 info: Opened database file ./src/db/db.json
+2022-02-23 21:38:32 info: =================================
+2022-02-23 21:38:32 info: ======= ENV: development =======
+2022-02-23 21:38:32 info: 🚀 App listening on the port 3000
+2022-02-23 21:38:32 info: =================================
+2022-02-23 21:38:32 info: Opened database file ./src/db/db.json
+2022-02-23 21:38:37 info: =================================
+2022-02-23 21:38:37 info: ======= ENV: development =======
+2022-02-23 21:38:37 info: 🚀 App listening on the port 3000
+2022-02-23 21:38:37 info: =================================
+2022-02-23 21:38:37 info: Opened database file ./src/db/db.json
+2022-02-23 21:38:51 info: =================================
+2022-02-23 21:38:51 info: ======= ENV: development =======
+2022-02-23 21:38:51 info: 🚀 App listening on the port 3000
+2022-02-23 21:38:51 info: =================================
+2022-02-23 21:38:51 info: Opened database file ./src/db/db.json
+2022-02-23 21:39:59 info: =================================
+2022-02-23 21:39:59 info: ======= ENV: development =======
+2022-02-23 21:39:59 info: 🚀 App listening on the port 3000
+2022-02-23 21:39:59 info: =================================
+2022-02-23 21:39:59 info: Opened database file ./src/db/db.json
+2022-02-23 21:40:11 info: [0mPOST /auth/register [33m400[0m 1026.223 ms - 43[0m
+2022-02-23 21:40:30 info: =================================
+2022-02-23 21:40:30 info: ======= ENV: development =======
+2022-02-23 21:40:30 info: 🚀 App listening on the port 3000
+2022-02-23 21:40:30 info: =================================
+2022-02-23 21:40:30 info: Opened database file ./src/db/db.json
+2022-02-23 21:40:36 info: [0mPOST /auth/register [33m400[0m 1028.402 ms - 43[0m
+2022-02-23 21:40:54 info: =================================
+2022-02-23 21:40:54 info: ======= ENV: development =======
+2022-02-23 21:40:54 info: 🚀 App listening on the port 3000
+2022-02-23 21:40:54 info: =================================
+2022-02-23 21:40:54 info: Opened database file ./src/db/db.json
+2022-02-23 21:41:05 info: =================================
+2022-02-23 21:41:05 info: ======= ENV: development =======
+2022-02-23 21:41:05 info: 🚀 App listening on the port 3000
+2022-02-23 21:41:05 info: =================================
+2022-02-23 21:41:05 info: Opened database file ./src/db/db.json
+2022-02-23 21:41:57 info: =================================
+2022-02-23 21:41:57 info: ======= ENV: development =======
+2022-02-23 21:41:57 info: 🚀 App listening on the port 3000
+2022-02-23 21:41:57 info: =================================
+2022-02-23 21:41:57 info: Opened database file ./src/db/db.json
+2022-02-23 21:42:08 info: =================================
+2022-02-23 21:42:08 info: ======= ENV: development =======
+2022-02-23 21:42:08 info: 🚀 App listening on the port 3000
+2022-02-23 21:42:08 info: =================================
+2022-02-23 21:42:08 info: Opened database file ./src/db/db.json
+2022-02-23 21:43:09 info: =================================
+2022-02-23 21:43:09 info: ======= ENV: development =======
+2022-02-23 21:43:09 info: 🚀 App listening on the port 3000
+2022-02-23 21:43:09 info: =================================
+2022-02-23 21:43:09 info: Opened database file ./src/db/db.json
+2022-02-23 21:43:14 info: [0mGET /users [33m400[0m 1020.745 ms - 61[0m
+2022-02-23 21:46:46 info: =================================
+2022-02-23 21:46:46 info: ======= ENV: development =======
+2022-02-23 21:46:46 info: 🚀 App listening on the port 3000
+2022-02-23 21:46:46 info: =================================
+2022-02-23 21:46:46 info: Opened database file ./src/db/db.json
+2022-02-23 21:46:49 info: [0mGET /users [32m200[0m 1018.764 ms - 737[0m
+2022-02-23 21:46:58 info: [0mGET /users [32m200[0m 1002.437 ms - 737[0m
+2022-02-23 21:47:00 info: [0mGET /users [32m200[0m 1006.330 ms - 737[0m
+2022-02-23 21:47:03 info: [0mGET /users [32m200[0m 1003.187 ms - 737[0m
+2022-02-23 21:49:34 info: =================================
+2022-02-23 21:49:34 info: ======= ENV: development =======
+2022-02-23 21:49:34 info: 🚀 App listening on the port 3000
+2022-02-23 21:49:34 info: =================================
+2022-02-23 21:49:34 info: Opened database file ./src/db/db.json
+2022-02-23 21:49:40 info: [0mPOST /auth/register [33m400[0m 1036.858 ms - 43[0m
+2022-02-23 21:49:52 info: =================================
+2022-02-23 21:49:52 info: ======= ENV: development =======
+2022-02-23 21:49:52 info: 🚀 App listening on the port 3000
+2022-02-23 21:49:52 info: =================================
+2022-02-23 21:49:52 info: Opened database file ./src/db/db.json
+2022-02-23 21:51:38 info: =================================
+2022-02-23 21:51:38 info: ======= ENV: development =======
+2022-02-23 21:51:38 info: 🚀 App listening on the port 3000
+2022-02-23 21:51:38 info: =================================
+2022-02-23 21:51:38 info: Opened database file ./src/db/db.json
+2022-02-23 21:53:55 info: =================================
+2022-02-23 21:53:55 info: ======= ENV: development =======
+2022-02-23 21:53:55 info: 🚀 App listening on the port 3000
+2022-02-23 21:53:55 info: =================================
+2022-02-23 21:53:55 info: Opened database file ./src/db/db.json
+2022-02-23 21:54:05 info: =================================
+2022-02-23 21:54:05 info: ======= ENV: development =======
+2022-02-23 21:54:05 info: 🚀 App listening on the port 3000
+2022-02-23 21:54:05 info: =================================
+2022-02-23 21:54:05 info: Opened database file ./src/db/db.json
+2022-02-23 21:54:09 info: [0mGET /users [32m200[0m 1012.871 ms - 923[0m

@@ -5,12 +5,14 @@ import helmet from "helmet";
 import hpp from "hpp";
 import morgan from "morgan";
 import path from "path";
+import createError from "http-errors";
 // import { createProxyMiddleware } from "http-proxy-middleware";
 
 import { createMiddleware } from "@mswjs/http-middleware";
 import { logger, stream } from "@/utils/logger";
 import { handlers } from "@/handlers";
-import { NODE_ENV, PORT, LOG_FORMAT, ORIGIN, CREDENTIALS } from "@/config";
+import { NODE_ENV, PORT, LOG_FORMAT, ORIGIN, CREDENTIALS, DB_FILE } from "@/config";
+import { openDB } from "@/db";
 
 // const jsonServerProxy = createProxyMiddleware({
 //   target: "https://cnodejs.org/api",
@@ -44,7 +46,11 @@ class App {
     return this.app;
   }
 
-  private initializeMiddlewares() {
+  private async initializeMiddlewares() {
+    const db = await openDB(DB_FILE);
+    global.db = db;
+    global.logger = logger;
+
     this.app.use(morgan(LOG_FORMAT, { stream }));
     this.app.use(cors({ origin: ORIGIN, credentials: CREDENTIALS }));
     this.app.use(hpp());
@@ -53,8 +59,16 @@ class App {
     this.app.use(express.urlencoded({ extended: true }));
     this.app.use(express.static(path.join(__dirname, "/public")));
     this.app.use(createMiddleware(...handlers));
-    this.app.use((_req, res) => {
-      res.status(404).send({ error: "Mock not found" });
+    // this.app.use((_req, res) => {
+    //   res.status(404).send({
+    //     code: 404,
+    //     msg: "Mock not found",
+    //   });
+    // });
+
+    // Catch 404 and forward to the global error handler.
+    this.app.use((req, res, next) => {
+      next(createError(404));
     });
 
     // 反向代理
